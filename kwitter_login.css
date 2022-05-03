@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background: url("login page image.jpg");
+    background-position: center;
+}
+.login_div{
+    float:none;
+}
